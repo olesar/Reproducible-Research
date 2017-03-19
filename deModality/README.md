@@ -1,7 +1,7 @@
 # Modality in German
 using the parallel German-Russian corpus
 
-### Translation of _mussen_ to Russian
+### Translation of _mussen_ into Russian
 
 |Russian|#|
 |---|---|
