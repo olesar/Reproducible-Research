@@ -2,9 +2,10 @@
 
 |German|Russian|WordRus|
 |---|---|---|
-|German|Russian|WordRus|
-|---|---|---|
-|Ich war stolz darauf, dass Marie meine Frau war, und fühlte mich selbst nicht ganz so erwachsen, wie ich mich von jetzt an würde verhalten <span style="background-color: gray; font-weight: bold">müssen</span>.|Я гордился тем, что Мария стала моей женой, и боялся, что я <span style="background-color: gray; font-weight: bold">недостаточно взрослый, чтобы поступать</span> отныне по-взрослому.|conj|
+|Ich war stolz darauf, dass Marie meine Frau war, und fühlte mich selbst nicht ganz so erwachsen, wie ich mich von jetzt an würde verhalten 
+```html<span style="background-color: gray; font-weight: bold">müssen</span>.
+```
+|Я гордился тем, что Мария стала моей женой, и боялся, что я <span style="background-color: gray; font-weight: bold">недостаточно взрослый, чтобы поступать</span> отныне по-взрослому.|conj|
 |Als Leo ins Zimmer kam, war Chopin sofort weg; Leo ist sehr gross, blond, mit seiner randlosen Brille sieht er aus, wie ein Superintendent aussehen <span style="background-color: gray; font-weight: bold">müsste</span> oder ein schwedischer Jesuit.|Лео вошел в комнату, и Шопена сразу не стало; Лео очень высокий, белокурый юноша, он носит очки без оправы и по внешности <span style="background-color: gray; font-weight: bold">ни дать ни взять</span> суперинтендант церковного округа или шведский иезуит.|ни дать ни взять|
 |Manchmal hatte sie gesagt, sie <span style="background-color: gray; font-weight: bold">müsse</span> mal wieder katholische Luft atmen.|Время от времени она говорила, что <span style="background-color: gray; font-weight: bold">ей хочется</span> подышать "католическим воздухом".|?|
 |«Sie war fast fünfundzwanzig, und es hätte ihr etwas Besseres einfallen <span style="background-color: gray; font-weight: bold">müssen</span>.|Она дожила почти до двадцати пяти и <span style="background-color: gray; font-weight: bold">могла бы</span> придумать что-нибудь получше.|могла бы|
