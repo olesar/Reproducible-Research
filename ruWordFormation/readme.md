@@ -47,4 +47,4 @@ Example:
 
 ### References
 
-* A.I. Kuznetsova & T.F. Efremova, A Dictionary of Russian Morphemes, Moscow, 1986 [in Russian, Кузнецова, Ариадна Ивановна; Татьяна Фёдоровна Ефремова. Словарь морфем русского языка: около 52,000 слов. Москва: Русский язык, 1986.]
+* A.I. Kuznetsova & T.F. Efremova, A Dictionary of Russian Morphemes, Moscow, 1986 [in Russian, Кузнецова, Ариадна Ивановна; Татьяна Фёдоровна Ефремова. Словарь морфем русского языка: около 52,000 слов. Москва: Русский язык, 1986.] [sample pages](KuznetsovaEfremova1986sample.pdf)
