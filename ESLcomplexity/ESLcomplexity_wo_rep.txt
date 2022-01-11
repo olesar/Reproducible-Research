@@ -1,4 +1,4 @@
-name	task	# errors	der_level3	der_level4	der_level5	der_level6	group	mci	freq_finite_forms	freq_aux	num_inf	num_gerunds	num_pres_sing	num_pres_plur	num_past_part	num_past_simple	Symbols	Tokens	Length
+name	task	errors	der_level3	der_level4	der_level5	der_level6	group	mci	freq_finite_forms	freq_aux	num_inf	num_gerunds	num_pres_sing	num_pres_plur	num_past_part	num_past_simple	Symbols	Tokens	Length
 2017_VSa_73_2,txt	argumentative	10	0.055	0.154	0.154	0.022	1	4.5	0.423076923	1.192307692	15	2	8	0	5	3	1847	319	300+
 2014_AMe_19_2,txt	argumentative	9	0.063	0.125	0.094	0.016	1	2.75	0.538461538	1.192307692	19	0	8	0	2	4	1300	232	200+
 2016_OR_10_2,txt	argumentative	9	0.081	0.047	0.047	0.128	1	3.5	0.428571429	0.642857143	12	1	13	0	3	3	1763	291	250+
